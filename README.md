@@ -1,4 +1,4 @@
-# Hey there 👋
+# Heya 👋
 
 **I'm tomatexyz** - A hobbyist programmer focusing on smaller projects.
 
